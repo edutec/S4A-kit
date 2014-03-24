@@ -87,19 +87,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="298.42038"
-     inkscape:cy="133.52749"
+     inkscape:zoom="1.4"
+     inkscape:cx="386.54344"
+     inkscape:cy="171.19041"
      inkscape:document-units="px"
-     inkscape:current-layer="g7171"
+     inkscape:current-layer="capa1"
      showgrid="false"
      units="cm"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1918"
-     inkscape:window-height="1078"
+     inkscape:window-width="1365"
+     inkscape:window-height="766"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="1080"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata3076">
@@ -109,7 +109,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -124,12 +124,18 @@
        width="531.49603"
        height="354.33072"
        x="0"
-       y="698.03015" />
+       y="698.03015"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="fill:#4088b6;fill-opacity:1;stroke:none"
        d="M 32.15625 295.75 C 20.842453 295.75 9.9878203 297.80988 0 301.59375 L 0 354.34375 L 117 354.34375 C 104.03526 320.10198 70.94257 295.75 32.15625 295.75 z "
        transform="translate(0,698.03018)"
-       id="rect6544-0" />
+       id="rect6544-0"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        sodipodi:type="arc"
        style="opacity:0.97397766;fill:#ff980d;fill-opacity:1;stroke:none"
@@ -139,9 +145,15 @@
        sodipodi:rx="91.428574"
        sodipodi:ry="91.428574"
        d="m 490.00002,257.18784 c 0,50.4946 -40.93397,91.42857 -91.42858,91.42857 -50.49461,0 -91.42857,-40.93397 -91.42857,-91.42857 0,-50.49461 40.93396,-91.42858 91.42857,-91.42858 50.49461,0 91.42858,40.93397 91.42858,91.42858 z"
-       transform="matrix(0.97905948,0,0,0.97905948,11.674992,689.21342)" />
+       transform="matrix(0.97905948,0,0,0.97905948,11.674992,689.21342)"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <g
-       id="g8631">
+       id="g8631"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <path
          transform="translate(0,698.03018)"
          inkscape:connector-curvature="0"
@@ -386,7 +398,10 @@
     </g>
     <g
        id="g8536"
-       transform="matrix(0.83907431,0.19662305,-0.19662305,0.83907431,564.85346,-49.778392)">
+       transform="matrix(0.83907431,0.19662305,-0.19662305,0.83907431,564.85346,-49.778392)"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <g
          id="g8518">
         <path
@@ -861,7 +876,10 @@
     </g>
     <g
        id="g6369"
-       transform="matrix(-0.33670237,0.14243388,0.14227903,0.33706881,918.87552,958.30192)">
+       transform="matrix(-0.33670237,0.14243388,0.14227903,0.33706881,918.87552,958.30192)"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <path
          inkscape:connector-curvature="0"
          id="path3954"
@@ -895,7 +913,10 @@
     </g>
     <g
        id="g8606"
-       transform="matrix(0.96102093,0.27647563,-0.27647563,0.96102093,237.66952,-109.7133)">
+       transform="matrix(0.96102093,0.27647563,-0.27647563,0.96102093,237.66952,-109.7133)"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <path
          style="fill:#808080;fill-opacity:1;stroke:none"
          d="m 465.98647,874.01762 c 4.54744,-3.51696 12.082,-3.48517 15.74414,1.31152 3.74377,5.90316 2.2473,14.53178 -3.43708,18.67387 -4.35509,4.42918 -9.39395,8.63234 -15.59689,10.0397 -15.54197,2.73649 -15.82703,14.5128 -16.78912,10.45336 3.35329,-8.80589 7.71044,-8.64155 16.87586,-10.99569 4.08649,-1.25896 8.24367,-2.94091 11.14945,-6.20828 3.97065,-3.3625 8.35374,-7.47764 8.44744,-13.07521 0.34815,-4.71124 -2.07685,-10.31477 -7.08969,-11.38155 -2.67891,-0.62879 -5.5036,-0.22749 -8.06686,0.69023 1.41668,-0.77677 -1.08527,0.56949 -1.23725,0.49205 z"
@@ -1009,7 +1030,10 @@
     </g>
     <g
        id="g6385"
-       transform="matrix(0.33337328,-0.14991351,0.15007666,0.33373608,43.628569,1336.6731)">
+       transform="matrix(0.33337328,-0.14991351,0.15007666,0.33373608,43.628569,1336.6731)"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <path
          inkscape:connector-curvature="0"
          id="path4023"
@@ -1043,7 +1067,10 @@
     </g>
     <g
        id="g8233"
-       transform="matrix(0.51995581,-0.85419316,0.85419316,0.51995581,-672.60797,797.70171)">
+       transform="matrix(0.51995581,-0.85419316,0.85419316,0.51995581,-672.60797,797.70171)"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <path
          inkscape:connector-curvature="0"
          id="path4046"
@@ -1079,7 +1106,10 @@
        id="g6420"
        transform="matrix(0.02875525,0.36452236,-0.36463995,0.02913529,162.16473,460.07358)"
        inkscape:transform-center-x="16.658641"
-       inkscape:transform-center-y="-2.0952838">
+       inkscape:transform-center-y="-2.0952838"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <path
          inkscape:connector-curvature="0"
          id="path4522"
@@ -1120,7 +1150,10 @@
     <g
        id="g6466"
        transform="matrix(-0.36504607,-0.01939018,0.0196216,-0.36536964,861.36119,551.52468)"
-       style="stroke-width:2.46084294;stroke-miterlimit:4;stroke-dasharray:none">
+       style="stroke-width:2.46084294;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <path
          inkscape:connector-curvature="0"
          id="path5080"
@@ -1154,7 +1187,10 @@
     </g>
     <g
        id="g8661"
-       transform="matrix(0.1978685,-0.11010834,0.11010834,0.1978685,171.30702,1395.7216)">
+       transform="matrix(0.1978685,-0.11010834,0.11010834,0.1978685,171.30702,1395.7216)"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <path
          sodipodi:nodetypes="cccccc"
          inkscape:connector-curvature="0"
@@ -1175,7 +1211,10 @@
     </g>
     <g
        transform="matrix(0.38521547,0,0,0.38521547,-248.35023,659.38741)"
-       id="g8819">
+       id="g8819"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <g
          transform="matrix(0.46022502,0,0,-0.46072589,1717.0788,1083.3)"
          style="stroke:#6e6e6e;stroke-width:11.2750864;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -1275,9 +1314,9 @@
     <g
        id="g10561"
        transform="matrix(0.26610942,0,0,0.26610942,-55.008513,1005.8726)"
-       inkscape:export-filename="/home/bromagosa/docs/edutec-text.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
        style="fill:#254e69;fill-opacity:1">
       <path
          inkscape:export-ydpi="90"
@@ -1332,18 +1371,25 @@
        x="132.14262"
        y="769.44788"
        id="text6203"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan6205"
          x="132.14262"
-         y="769.44788">Arduino Kit</tspan></text>
+         y="769.44788"
+         style="-inkscape-font-specification:DejaVu Sans;font-family:DejaVu Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Arduino Kit</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:27.32337379px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:-0.10625757px;word-spacing:0px;fill:#ff980d;fill-opacity:1;stroke:none;font-family:Sans"
        x="404.03256"
        y="794.51099"
        id="text6870"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan6872"
          x="404.03256"
@@ -1351,9 +1397,9 @@
     <g
        id="g4129"
        transform="matrix(0.23555299,0,0,0.23555299,-26.095054,633.61029)"
-       inkscape:export-filename="/tmp/logo.png"
-       inkscape:export-xdpi="81.809998"
-       inkscape:export-ydpi="81.809998">
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <path
          inkscape:export-ydpi="54.405342"
          inkscape:export-xdpi="54.405342"
@@ -1466,7 +1512,10 @@
     </g>
     <g
        id="g7171"
-       transform="translate(5.3958809,-5.1500718)">
+       transform="translate(5.3958809,-5.1500718)"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <text
          sodipodi:linespacing="125%"
          id="text6973"
@@ -1573,7 +1622,10 @@
     <g
        id="g7289"
        transform="matrix(-0.08301523,1.0992279,-1.0992279,-0.08301523,1536.4283,610.17994)"
-       style="stroke-width:0.81643158;stroke-miterlimit:4;stroke-dasharray:none">
+       style="stroke-width:0.81643158;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <path
          transform="translate(0,698.03018)"
          inkscape:connector-curvature="0"
@@ -1715,7 +1767,10 @@
        id="g8194"
        transform="matrix(0.63802288,-0.7700174,0.7700174,0.63802288,-236.44852,184.48429)"
        inkscape:transform-center-x="-4.0406102"
-       style="stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none">
+       style="stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/bromagosa/docs/kit s4a/etiqueta-basic.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <path
          sodipodi:nodetypes="cccscssssscc"
          inkscape:connector-curvature="0"
